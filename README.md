@@ -7,6 +7,11 @@ Cecilia Szambien
 In the context of the course IMA201 at Télécom Paris
 27/11/2024.
 
+## Project Demp
+![] (https://github.com/NicolasNoya/SkinLessionSegmentation/blob/feature/gif/gif_demo.gif)
+
+
+
 ## Project Description
 
 This project focuses on image segmentation for skin lesions. The primary objective is to develop a method that, given an image of a skin lesion, generates a mask isolating the lesion from the surrounding skin.
