@@ -16,14 +16,6 @@ In the context of the course IMA201 at Télécom Paris
 
 This project focuses on image segmentation for skin lesions. The primary objective is to develop a method that, given an image of a skin lesion, generates a mask isolating the lesion from the surrounding skin.
 
-## Assigned Responsabilities in the project
-
-The tasks where divided with the autors as follows:
-
-- Nicolás Noya was in charge of: Segmentation, Postprocessing, Manager Class, Hyper-Parameter Adjustment and Code Quality.
-- Cecilia Szambien was in charge of: Preprocessing (which included circular filter, hair removal, channel extraction, intensity adjustement and median filter) and Metrics Managements.
-- Both autors work on experimentation and were designers of the structure of the project. 
-
 ## Project Dependencies
 
 The dependencies of this project can be found in the file requirements.txt.
@@ -42,6 +34,7 @@ This project is structures in the following folders:
 - research: This folder contains the research, which consists on both, theoretical and practical research.
 - segmentation: This folder contains the segmentation class that is in charge of the segmentation and postprocessing steps of the model.
 - dataset: Even thought this folder might not appear in the gitlab project, it contains the data used to test the model's performance and also adjust the hyperparameters.
+- demo: The demo folder contains a Streamlit program that performs image segmentation on an input image.
 
 ## Methodology of work
 
