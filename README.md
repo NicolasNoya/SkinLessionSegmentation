@@ -8,7 +8,7 @@ In the context of the course IMA201 at Télécom Paris
 27/11/2024.
 
 ## Project Demo
-![](https://github.com/NicolasNoya/SkinLessionSegmentation/blob/feature/gif/gif_demo.gif)
+![](https://github.com/NicolasNoya/SkinLessionSegmentation/blob/main/gif_demo.gif)
 
 
 
